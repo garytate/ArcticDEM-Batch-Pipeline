@@ -15,7 +15,7 @@ setup(
                       'progressbar2>=3.38.0',
                       'beautifulsoup4',
                       'retrying>=1.3.3',
-                      'Rtree-linux>=0.9.4;platform_system=="Linux"',
+                      'Rtree>=0.9.4;platform_system=="Linux"',
                       'pyproj>=1.9.5.1;platform_system!="Windows"',
                       'shapely>=1.6.4;platform_system!="Windows"',
                       'fiona>=1.8.6;platform_system!="Windows"',
